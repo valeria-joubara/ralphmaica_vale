@@ -1,11 +1,21 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Titillium Web', sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Titillium Web", sans-serif;
 }
-
-.mi_foto_perfil{
-    width: 250px;
-    height: 250px;
+/* seccion inicio */
+.inicio {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("./img/fondoEscritorio.jpg");
+  background-size: cover;
+}
+.Redes a{
+    margin: 10px;
+}
+.mi_foto_perfil {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 1px solid rgb(35, 35, 205);
 }
