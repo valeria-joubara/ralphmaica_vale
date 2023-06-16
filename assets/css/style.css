@@ -19,9 +19,15 @@
   border-radius: 50%;
   border: 1px solid #ffff;
 }
+/*seccion virtudes*/
 .imagenes_virtudes{
   width: 250px;
   height: 250px;
   border-radius: 50%;
   border: 1px solid #ffff;
+}
+.virtudes{
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("./img/background.jpg");
+  background-size: cover
 }
