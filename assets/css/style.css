@@ -39,7 +39,7 @@ background-size: cover;
 .imagenes_portafolio{
   width: 200px;
   height: 200px;
-  border-radius: 50%;
+  border-radius: 5%;
   border: 1px solid #ffff;
 }
 
