@@ -31,4 +31,8 @@
     url("./img/background.jpg");
   background-size: cover
 }
+main{
+background-image: url("./img/background_portafolio.jpg");
+background-size: cover;
+}
 
