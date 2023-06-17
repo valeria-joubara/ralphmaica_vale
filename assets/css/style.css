@@ -31,8 +31,15 @@
     url("./img/background.jpg");
   background-size: cover
 }
+/*portafolio*/
 main{
 background-image: url("./img/background_portafolio.jpg");
 background-size: cover;
+}
+.imagenes_portafolio{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 1px solid #ffff;
 }
 
